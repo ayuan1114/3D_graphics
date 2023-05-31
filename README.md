@@ -7,4 +7,4 @@ Can also rotate shape along all axes by clicking and dragging with the cursor\
 Can be moved up and down by pressing Y and H\
 Can be moved left and right by pressing G and T\
 Can reset the shape to original position using backspace\
-Can stop all rotation using the space bar\
+Can stop all rotation using the space bar
